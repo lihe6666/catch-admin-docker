@@ -1,0 +1,6 @@
+[submodule "catch-admin-frontend"]
+	path = catch-admin-frontend
+	url = https://github.com/yanwenwu/catch-admin-vue.git
+[submodule "catch-admin-backend"]
+	path = catch-admin-backend
+	url = https://github.com/yanwenwu/catch-admin.git
